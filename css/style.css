@@ -1,0 +1,220 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+.style0 {
+  background-color: #fff;
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100vw;
+  height: 127.46666666666667vw
+}
+.mobile11container0column0 {
+  display: flex;
+  margin-left: 6.4vw;
+  margin-top: 10.666666666666666vw;
+  width: 87.2vw;
+  height: 106.13333333333334vw;
+  flex-direction: column
+}
+.mobile11container0column0row0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 87.2vw;
+  height: 5.333333333333333vw;
+  align-items: center
+}
+.style1 {
+  color: #202124;
+  font-family: Helvetica,serif;
+  font-size: 6.4vw;
+  font-weight: 700;
+  line-height: 5.333333333333333vw;
+  margin-left: 0;
+  width: 40.266666666666666vw;
+  text-overflow: clip;
+  overflow: hidden
+}
+.style4 {
+  display: flex;
+  margin-left: 35.2vw;
+  width: 1.6vw;
+  height: 2.6666666666666665vw;
+  align-self: center;
+  flex-direction: column
+}
+.style5 {
+  object-fit: cover
+}
+.style2,
+.style3,
+.style5 {
+  width: 1.6vw;
+  height: 2.6666666666666665vw
+}
+.style2 {
+  display: flex;
+  margin-left: 8.533333333333333vw;
+  align-self: center;
+  flex-direction: column
+}
+.style3 {
+  object-fit: cover
+}
+.style7 {
+  display: grid;
+  margin-left: 0;
+  margin-top: 21.333333333333332vw;
+  width: 87.2vw;
+  grid-gap: 10.666666666666666vw
+}
+.style8 {
+  display: flex
+}
+.mobile11container0column0grid0container3column0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 87.2vw;
+  height: 34.13333333333333vw;
+  flex-direction: column
+}
+.style9 {
+  color: #fa6980;
+  font-family: Helvetica,serif;
+  font-weight: 700;
+  line-height: 5.333333333333333vw;
+  margin-top: 0;
+  text-overflow: clip;
+  overflow: hidden
+}
+.style10,
+.style11,
+.style9 {
+  font-size: 4.266666666666667vw;
+  margin-left: 0;
+  width: 87.2vw
+}
+.style10 {
+  font-weight: 700;
+  text-overflow: clip;
+  overflow: hidden;
+  color: #202124;
+  font-family: Helvetica,serif;
+  line-height: 5.333333333333333vw;
+  margin-top: 5.333333333333333vw;
+  height: 4.266666666666667vw
+}
+.style11 {
+  color: #a6adb4;
+  font-family: 'Acumin Pro',serif;
+  line-height: 6.933333333333334vw;
+  margin-top: 2.6666666666666665vw;
+  height: 11.2vw
+}
+.mobile11container0column0grid0container3column0row3 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 2.6666666666666665vw;
+  width: 18.4vw;
+  height: 4.266666666666667vw
+}
+.style13,
+.style14 {
+  width: 4.266666666666667vw;
+  height: 4.266666666666667vw
+}
+.style13 {
+  display: flex;
+  margin-left: 0;
+  flex-direction: column
+}
+.style14 {
+  object-fit: cover
+}
+.style12 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: 3.466666666666667vw;
+  line-height: 6.933333333333334vw;
+  margin-left: 2.6666666666666665vw;
+  width: 11.466666666666667vw
+}
+.style15 {
+  display: flex
+}
+.mobile11container0column0grid0container5column0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 87.2vw;
+  height: 34.13333333333333vw;
+  flex-direction: column
+}
+.style16 {
+  color: #fa6980;
+  font-family: Helvetica,serif;
+  font-weight: 700;
+  line-height: 5.333333333333333vw;
+  margin-top: 0;
+  text-overflow: clip;
+  overflow: hidden
+}
+.style16,
+.style17,
+.style18 {
+  font-size: 4.266666666666667vw;
+  margin-left: 0;
+  width: 87.2vw
+}
+.style17 {
+  font-weight: 700;
+  text-overflow: clip;
+  overflow: hidden;
+  color: #202124;
+  font-family: Helvetica,serif;
+  line-height: 5.333333333333333vw;
+  margin-top: 5.333333333333333vw;
+  height: 4.266666666666667vw
+}
+.style18 {
+  color: #a6adb4;
+  font-family: 'Acumin Pro',serif;
+  line-height: 6.933333333333334vw;
+  margin-top: 2.6666666666666665vw;
+  height: 11.2vw
+}
+.mobile11container0column0grid0container5column0row3 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 2.6666666666666665vw;
+  width: 17.6vw;
+  height: 4.266666666666667vw
+}
+.style20,
+.style21 {
+  width: 4.266666666666667vw;
+  height: 4.266666666666667vw
+}
+.style20 {
+  display: flex;
+  margin-left: 0;
+  flex-direction: column
+}
+.style21 {
+  object-fit: cover
+}
+.style19 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: 3.466666666666667vw;
+  line-height: 6.933333333333334vw;
+  margin-left: 2.6666666666666665vw;
+  width: 10.666666666666666vw
+}
+.breakpoint-0 {
+  display: block
+}
